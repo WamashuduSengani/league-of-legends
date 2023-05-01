@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=ZCOOL+KuaiLe&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+.font-league-newest {
+  font-family: 'Anton', sans-serif;
+}
+
+.font-league {
+  font-family: 'Press Start 2P', sans-serif;
+}
+
+.font-league3 {
+    font-family: 'ZCOOL KuaiLe', cursive;
+}
+  
+
